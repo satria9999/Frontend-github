@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer • Mobile & Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Building+for+Mobile+%26+Web;Clean+Code+%2B+Great+UX;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&background=1A1B27FF&center=true&vCenter=true&width=500&lines=Building+for+Mobile+%26+Web;Clean+Code+%2B+Great+UX;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,16 +47,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satria9999&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satria9999&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satria9999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satria9999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satria9999&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satria9999&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satria9999&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satria9999&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satria9999&style=for-the-badge&color=f72585" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=satria9999&style=for-the-badge&color=1A1B27" alt="profile views" />
 </p>
 
 <p align="center"><i>⭐️ Terima kasih sudah mampir!</i></p>
